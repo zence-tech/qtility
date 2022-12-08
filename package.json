@@ -1,6 +1,6 @@
 {
   "name": "qtility",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
   "engines": {
@@ -17,7 +17,7 @@
   },
   "keywords": [],
   "author": "Kumar Gaurav (https://twitter.com/ikmrgrv)",
-  "license": "ISC",
+  "license": "GNU GPL Version 3.0",
   "bugs": {
     "url": "https://github.com/zence-tech/qtility/issues"
   },
